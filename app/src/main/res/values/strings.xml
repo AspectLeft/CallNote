@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CallNote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_new_note">New note</string>
+    <string name="action_save_word">Save words</string>
+    <string name="action_delete_setted_words">Clear all</string>
+</resources>

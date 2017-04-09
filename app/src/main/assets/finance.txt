@@ -1,0 +1,107 @@
+　big macs,big/large-cap stock,mega-issue 大盘股
+　　offering,list 上市
+　　bourse 证交所
+　　corporate champion 龙头企业
+　　Shanghai Exchange 上海证交所
+　　pension fund 养老基金
+　　mutual fund 共同基金
+　　hedge mutual fund 对冲式共同基金
+　　share 股票
+　　valuation 股价
+　　underwriter 保险商
+　　government bond 政府债券
+　　saving account 储蓄帐户
+　　equity market 股市
+shareholder 股东
+　　delist 摘牌
+　　mongey-loser 亏损企业
+　　inventory 存货
+　　traded company,trading enterprise 上市公司
+　　stakeholder 利益相关者
+　　transparency 透明度
+　　Msnbc:Microsoft national broadcast 微软全国广播公司
+　　market fundamentalist 市场经济基本规则
+　　damage-contral machinery 安全顾问
+　　efficient market 有效市场
+　　intellectual property 知识产权
+　　opportunistic practice 投机行为
+　　WorldCom 世通公司
+　　bribery 行贿
+　　entrepreneur 企业家
+　　cook the book 做假帐
+　　regulatory system 监管体系
+　　audit 审计
+　　accounting firm 会计事务所
+　　Great Depression 大萧条
+　　portfolio 投资组合
+　　money-market 短期资本市场
+　　capitual-market 长期资本市场
+　　volatility 波动
+　　diversification 多元化
+　　commodity 期货
+　　real estate 房地产
+　　option 期权
+　　call option 看涨期权
+　　put option 看跌期权
+　　merger 并购
+　　arbitrage 套利
+　　Securities&Exchange Commission 〈美〉证券交易委员会
+　　dollar standard 美元本位制
+　　flight 贬值
+　　budget 预算
+　　deficit 赤字
+　　bad debt 坏帐
+　　output 产值
+　　macroeconomic 宏观经济
+　　fiscal stimulus 财政刺激
+　　a store of value 保值
+　　transaction currency 结算货币
+　　forward exchange 期货交易
+　　intervention currency 干预货币
+　　Treasury bond 财政部公债
+　　currnt-account 经常项目
+　　pickup in rice 物价上涨
+　　Federal Reserve 美联储
+　　inflation 通货膨胀
+　　deflation 通货紧缩
+　　tighter credit 紧缩信贷
+　　monetary policy 货币政策
+　　awash in excess capacity 生产力过剩
+　　foreigh exchange 外汇
+　　spot transaction 即期交易
+　　forward transaction 远期交易
+　　option forward transaction 择期交易
+　　swap transaction 调期交易
+　　quote 报价
+　　settlment and delivery 交割
+　　buying rate 买入价
+　　selling rate 卖出价
+　　spread 差幅
+　　contract 合同
+　　at par 平价
+　　premium 升水
+　　discount 贴水
+　　direct quoation method 直接报价法
+　　indirect quoation method 间接报价法
+　　dividend 股息
+　　domestic currency 本币
+　　floating rate 浮动利率
+　　parent company 母公司
+　　credit swap 互惠贷款
+　　venture capital 风险资本
+　　virtual value 虚拟价值
+　　physical good 物质产品
+　　abstract good 抽象产品
+　　Patent&Trademark Office 专利与商标局
+　　book value 帐面价值
+　　physical capital 实际资本
+　　IPO:initial public offering 新股首发
+　　job machine 就业市场
+　　welfare capitalism 福利资本主义
+　　collective market cap 市场资本总值
+　　golbal corporation 跨国公司
+　　transnational status 跨国优势
+　　transfer price 转让价格
+　　General Accounting Office 〈美〉会计总会
+　　consolidation 兼并
+　　leveraged 杠杆

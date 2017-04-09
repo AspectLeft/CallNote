@@ -1,0 +1,93 @@
+abbreviation 简写符号；简写
+abscissa 横坐标
+absolute complement 绝对补集
+absolute error 绝对误差
+absolute inequality 绝不等式
+absolute maximum 绝对极大值
+absolute minimum 绝对极小值
+absolute monotonic 绝对单调
+absolute value 绝对值
+accelerate 加速
+acceleration 加速度
+acceleration due to gravity 重力加速度; 地心加速度
+accumulation 累积
+accumulative 累积的
+accuracy 准确度
+act on 施于
+action 作用; 作用力
+acute angle 锐角
+acute-angled triangle 锐角三角形
+add 加
+addition 加法
+addition formula 加法公式
+addition law 加法定律
+addition law(of probability) （概率）加法定律
+additive inverse 加法逆元; 加法反元
+additive property 可加性
+adjacent angle 邻角
+adjacent side 邻边
+adjoint matrix 伴随矩阵
+algebra 代数
+algebraic 代数的
+algebraic equation 代数方程
+algebraic expression 代数式
+algebraic fraction 代数分式；代数分数式
+algebraic inequality 代数不等式
+algebraic number 代数数
+algebraic operation 代数运算
+algebraically closed 代数封闭
+algorithm 算法系统; 规则系统
+alternate angle （交）错角
+alternate segment 内错弓形
+alternating series 交错级数
+alternative hypothesis 择一假设; 备择假设; 另一假设
+altitude 高；高度；顶垂线；高线
+ambiguous case 两义情况；二义情况
+amount 本利和；总数
+analysis 分析；解析
+analytic geometry 解析几何
+angle 角
+angle at the centre 圆心角
+angle at the circumference 圆周角
+angle between a line and a plane 直与平面的交角
+angle between two planes 两平面的交角
+angle bisection 角平分
+angle bisector 角平分线；分角线
+angle in the alternate segment 交错弓形的圆周角
+angle in the same segment 同弓形内的圆周角
+俯角
+仰角
+静摩擦角
+极限角
+最大斜率的角
+倾斜角
+相交角
+投射角
+旋转角
+扇形角
+三角形
+内角和
+angles at a point 同顶角
+angular displacement 角移位
+angular momentum 角动量
+angular motion 角运动
+angular velocity 角速度
+annum(x% per annum) 年（年利率x%）
+anti-clockwise direction 逆时针方向；返时针方向
+anti-clockwise moment 逆时针力矩
+anti-derivative 反导数; 反微商
+anti-logarithm 逆对数；反对数
+anti-symmetric 反对称
+apex 顶点
+approach 接近；趋近
+approximate value 近似值
+approximation 近似；略计；逼近
+arabic system 阿刺伯数字系统
+arbitrary 任意
+arbitrary constant 任意常数
+arc 弧
+arc length 弧长
+arc-cosine function 反余弦函数
+arc-sin function 反正弦函数
+arc-tangent function 反正切函数
+area 面积

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/programmer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="程序员"
+        />
+    <CheckBox
+        android:id="@+id/math"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="数学"
+        />
+    <CheckBox
+        android:id="@+id/finance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="金融"
+        />
+    <EditText
+        android:id="@+id/edit_set"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:gravity="top"/>
+
+</LinearLayout>

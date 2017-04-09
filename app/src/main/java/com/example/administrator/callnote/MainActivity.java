@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=57bfe166");
+        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=12345678");
 
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO)
                 != PackageManager.PERMISSION_GRANTED||
